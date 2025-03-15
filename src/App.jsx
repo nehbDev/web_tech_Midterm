@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import Footer from "./components/Footer"
 import Home from "./pages/Home";
 import Rooms from "./pages/Rooms";
