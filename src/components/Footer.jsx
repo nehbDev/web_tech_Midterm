@@ -67,6 +67,9 @@ const Footer = () => {
         <p className="text-gray-400 text-xs sm:text-sm">
           © 2025 Residencia del Hamor. All rights reserved.
         </p>
+        <p className="text-gray-400 text-xs sm:text-sm">
+          Bhencyris John Sagaral. BSIT-3A
+        </p>
       </div>
     </footer>
   );
